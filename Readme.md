@@ -1,0 +1,3 @@
+1. Used requests to get the data using the url, params, Auth Key. Got data as json, converted to a dict, used pandas to make tham a csv.
+2. Users who have started early, and, have lots of repos and followers have turned into a company and have people under them.
+3. Creating repos only doesn't mean having followers, one needs to have actually good works to make it good and big. Stars reflect that.  
